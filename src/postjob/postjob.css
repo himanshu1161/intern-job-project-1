@@ -1,0 +1,10 @@
+.postjob {
+    display: flex;
+    width: 100%;
+  }
+  .postjobcontainer {
+    flex: 6;
+  }
+  .content {
+    display: flex; 
+  }

@@ -1,14 +1,10 @@
-// import Profilepage from "./components/Profilepage";
-
-import Postjob from "./postjob/Postjob";
+import Postjob2 from "./postjob2/Postjob2";
 
 function App() {
   return (
     <div className="App">
-      {/* <Profilepage/> */}
-      <Postjob/>
+      <Postjob2 />
     </div>
   );
 }
-
 export default App;

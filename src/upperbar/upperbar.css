@@ -1,3 +1,27 @@
 .container{
+    margin-left: 20px;
+    /* margin-right: 800px; */
+}
+.brand{
     margin-left: 10px;
+    margin-right: 850px;
+}
+.me-auto .button{
+    background-color: rgba(249, 115, 22, 1);
+    border-radius: 18px;
+    margin-right: 25px;
+    font-size: small;
+    width:100px;
+}
+.me-auto .button :hover{
+    background-color:rgba(249, 116, 22, 0.93) ;
+}
+.me-auto .en{
+  background-color: rgba(249, 115, 22, 1);
+}
+#basic-nav-dropdown{
+    font-size: small;
+    padding: 0px;
+    color: white;
+    font-weight: 400;
 }

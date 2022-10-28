@@ -1,5 +1,5 @@
 .con1{
-    background-color: #F5F5F5;
+    background-color: #F8F8FB;
     width: 805px;
     height: 255px;
     position: absolute;
@@ -8,7 +8,7 @@
     border-radius: 15px;
 }
 .con2{
-    background-color: #F5F5F5;
+    background-color: #F8F8FB;
     width: 805px;
     height: 578px;
     position: absolute;
@@ -19,7 +19,7 @@
 
 }
 .con3{
-    background-color: #F5F5F5;
+    background-color: #F8F8FB;
     width: 805px;
     height: 255px;
     position: absolute;
@@ -28,4 +28,7 @@
     border-radius: 15px;
     margin-bottom: 200px;
 
+}
+.input{
+    border-color:  #8F8C8C;
 }

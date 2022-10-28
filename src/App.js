@@ -9,8 +9,8 @@ function App() {
     <BrowserRouter>
     <div className="App">
       {/* <Profilepage/> */}
-       <Postjob2/> 
       <Routes>
+      <Route path="/" element={<Postjob2 />}/>
       <Route path="/signup" element={<Signup />}/>
       <Route path="/empreg" element={<Empreg/>} />
       </Routes>

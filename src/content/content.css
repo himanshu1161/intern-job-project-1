@@ -1,0 +1,100 @@
+.details {
+  padding-top: 10px;
+}
+.details p {
+  font-family: "Segoe UI";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 43px;
+  color: #2f2e41;
+  margin-top: 50px;
+  /* margin-left:25px; */
+}
+.details .con {
+  padding: 0px;
+}
+.box {
+  width: 806px;
+  height: 818px;
+  margin: 0px;
+  background: #f8f8fb;
+  border-radius: 15px;
+}
+.details {
+  margin-left: 220px;
+}
+.box .labels {
+  font-family: "Segoe UI";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 27px;
+  color: #2f2e41;
+}
+.form {
+  padding: 50px 0px 0px 150px;
+}
+.blanks {
+  width: 530px;
+  height: 100.32px;
+  border-width: 1px;
+  border-color: rgba(180, 178, 178, 1);
+  margin-bottom: 40px;
+}
+.sblanks {
+  width: 530px;
+  height: 40px;
+  border: 1px solid #b4b2b2;
+  border-radius: 10px;
+}
+.buttons .button {
+  margin: 10px;
+  width: 80px;
+  height: 36px;
+  background: #eeeeee;
+  border: 1px solid #b4b2b2;
+  border-radius: 20px;
+  font-family: "Segoe UI";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 24px;
+  color: #374151;
+}
+
+.buttons .button1 {
+  margin: 10px;
+  width: 115px;
+  height: 36px;
+  background: #eeeeee;
+  border: 1px solid #b4b2b2;
+  border-radius: 20px;
+  font-family: "Segoe UI";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 24px;
+  color: #374151;
+}
+.next {
+  width: 102.92px;
+  height: 38px;
+  border: 2px solid #f97316;
+  border-radius: 25px;
+  font-family: "Segoe UI";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 23px;
+  line-height: 2px;
+  color: #f97316;
+  /* margin-bottom: 100px;
+  margin-left: 350px;
+  margin-top: 20px */
+  margin: 20px 0px 100px 350px;
+}
+#next{
+  /* display: flex;
+  justify-content: center;
+  align-content: center; */
+}

@@ -1,0 +1,18 @@
+.links {
+  font-family: "Segoe UI";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 30px;
+  line-height: 40px;
+  color: #2f2e41;
+}
+hr {
+  width: 170px;
+  height: 0px;
+  border: 1px solid #8f8c8c;
+  background-color:  #8f8c8c;
+}
+.list{
+  margin-top: 100px;
+  margin-left: 40px;
+}

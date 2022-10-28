@@ -1,6 +1,6 @@
 // import Profilepage from "./components/Profilepage";
 
-import Postjob from "./postjob/Postjob";
+import Postjob2 from "./postjob2/Postjob2";
 import Signup from './empsignup/Signup';
 import Empreg from './empsignup/Empreg'
 import { BrowserRouter, Routes, Route } from "react-router-dom";
@@ -9,7 +9,7 @@ function App() {
     <BrowserRouter>
     <div className="App">
       {/* <Profilepage/> */}
-       <Postjob/> 
+       <Postjob2/> 
       <Routes>
       <Route path="/signup" element={<Signup />}/>
       <Route path="/empreg" element={<Empreg/>} />
